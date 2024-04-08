@@ -34,6 +34,7 @@ solu=np.linalg.solve(A,B)
 print(solu)
 ```
 ## Output:
+![Screenshot 2024-04-08 100309](https://github.com/gowxz/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/155504997/142698b4-6f4b-449e-bfbb-ed26dd2672e0)
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
